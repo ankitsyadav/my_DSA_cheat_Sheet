@@ -17,6 +17,6 @@ EASY ---------------------------------------------------------------------------
 
 6-Reverse String---> kuch nahi bs do pointer lelo , i =0; j = arr.length; swap kr do while loop chala kr
 
-7-Merge Sorted Array--->
+7-Merge Sorted Array---> 
 
 
